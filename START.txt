@@ -1,0 +1,7 @@
+KTDI – Digitales Lern- und Ausbildungszentrum
+
+Beide HTML-Dateien in GitHub im Hauptordner neben styles.css ersetzen.
+index.html ist die KTDI-Hauptseite, NICHT die Startseite des Mechatronik-Unterordners.
+lernzentrum.html enthält alle Bilder direkt. Kein zusätzlicher Bilderupload erforderlich.
+Der bestehende Ordner lernraum-mechatronik bleibt unverändert.
+Das Zukunftsbild nennt KI trifft die Industrie und die Zielgruppe Auszubildende plus Klasse 9/10.
