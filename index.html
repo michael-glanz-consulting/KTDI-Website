@@ -12,6 +12,12 @@
 .site-header .nav a.nav-learning:hover{background:#a96616;border-color:#a96616;color:#fff}
 .site-header .nav a.nav-learning:focus-visible{outline:3px solid #0b213e;outline-offset:3px}
 </style>
+<style>
+/* Kompakte, lesbare Beschriftung im Unternehmenskern */
+#kern .core-center{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;padding:18px;text-align:center;box-sizing:border-box}
+#kern .core-center .core-label{display:block;margin:0;color:#fff;font-size:18px;font-weight:600;line-height:1.1;letter-spacing:0}
+#kern .core-center .core-name{display:block;max-width:100%;margin:0;color:#ff4d4f;font-size:22px;font-weight:800;line-height:1.08;letter-spacing:-.02em}
+</style>
 </head>
 <body>
   <header class="site-header">
@@ -99,7 +105,7 @@
         <div class="core-visual" aria-hidden="true">
           <div class="core-ring ring-1"></div>
           <div class="core-ring ring-2"></div>
-          <div class="core-center">Digitaler<br><strong>Unternehmenskern</strong></div>
+          <div class="core-center"><span class="core-label">Digitaler</span><strong class="core-name">Unternehmens-<br>kern</strong></div>
         </div>
         <div>
           <span class="step">03</span>
